@@ -8,5 +8,5 @@ Credit 是此篇 [DingKe ipynb](https://github.com/DingKe/ml-tutorial/blob/maste
 
 我們只專注在 CTC loss 的 forward, backwark and gradient. Decoding 部分請參考原作者的 [ipynb](https://github.com/DingKe/ml-tutorial/blob/master/ctc/CTC.ipynb). 最後使用 tf.nn.ctc_loss and tf.gradients 與我們的計算做對比
 
-1. 完成 CTC_Practice.ipynb #TODO tag
-2. 參考 CTC_Practice_Answer.ipynb
+1. 完成 [CTC_Practice.ipynb](https://github.com/bobondemon/CTC_Practice/blob/master/CTC_Practice.ipynb) #TODO tag
+2. 參考 [CTC_Practice_Answer.ipynb](https://github.com/bobondemon/CTC_Practice/blob/master/CTC_Practice_Answer.ipynb)
